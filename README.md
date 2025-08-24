@@ -1,4 +1,4 @@
-# 금융 웹 애플리케이션 프로젝트 (Finance web application project)
+# Finance web application project
 
 # Fin_Sense
 당신만을 위한 금융 인사이트, 지금 깨워보세요.

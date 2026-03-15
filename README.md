@@ -104,10 +104,6 @@ Vue 3.5.14
   <img src="assets/readme_images/directory_back.png" alt="백엔드 디렉토리" width="400"/>
 </p>
 
-## ERD
-<p align="center">
-  <img src="assets/readme_images/erd.png" alt="erd" width="400"/>
-</p>
 
 ## 문서
 [Fin_Sense 프로젝트 상세 문서 (Notion)](https://www.notion.so/Fin_Sense-1ed0229ee907805ea93ecfd86a9dd8d9?pvs=4)
